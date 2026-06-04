@@ -1,9 +1,9 @@
 # Duelo_modelos_previsao_compras_P8
 
-## Objetivo:
+## OBJETIVO:
 Desenvolver um modelo preditivo capaz de analisar os padrões de comportamento dos clientes e identificar sinais que indicam a propensão deles para realizar compras no site da empresa. Para isso, vamos usar uma base de dados que contém informações detalhadas sobre os clientes.
 
-## Dados da base:
+## DADOS DA BASE:
 - Year_Birth: Ano de nascimento do cliente.
 
 - Education: Nível de escolaridade do cliente.
