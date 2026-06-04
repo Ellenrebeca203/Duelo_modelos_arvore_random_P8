@@ -70,6 +70,3 @@ Desenvolver um modelo preditivo capaz de analisar os padrões de comportamento d
 
 ## CONCLUSÃO
 Foram escolhidos dois modelos para treinar os dados da base. Sendo eles o Random Forest e a Árvore de Decisão. Inicialmente o Random Forest apresentou uma acurácia geral de 0.8842676311030742, então foi escolhido fazer o feature importance, e houve uma melhoria considerável na acurácia 0.91. O segundo modelo treinado como já mencionado foi a Árvore de Decisão, que inicialmente uma acurácia de 0.8679927667269439 (sendo menor que a do Random Forest), porém ao selecionar o feature importance e retreinar o modelo com features melhores, a acurácia subiu para 0.92 ultrapassando Random Forest, portanto o melhor modelo para esses dados da base foi a Árvore de Decisão com o feature importance.  
-
-
-**WebPurchases: Número de compras feitas pelo site da empresa.**
